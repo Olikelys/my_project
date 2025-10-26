@@ -6,3 +6,5 @@ black==23.1.0
 
 # 开发依赖
 pre-commit>=2.20.0
+
+flask==2.3.2
